@@ -34,7 +34,7 @@ namespace Project
             for (int i = 0; i < stars.Length; i++)
                 stars[i] = new Star(new Vector2(-rnd.Next(1, 100), 0));
             StarShip = new StarShip(new Vector2(0, Height / 2 - 20));
-            for (int i = 0; i < 20; i++)
+            for (int i = 0; i < 12; i++)
                 enemyShips.Add(new EnemyShip());
         }
 

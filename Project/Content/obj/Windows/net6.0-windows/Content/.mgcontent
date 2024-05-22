@@ -4,7 +4,7 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>D:/visual studio/projects/Project/Project/Content/enemyship.png</File>
+    <File>D:/visual studio/projects/Project/Project/Content/enemy.png</File>
     <File>D:/visual studio/projects/Project/Project/Content/File.spritefont</File>
     <File>D:/visual studio/projects/Project/Project/Content/fire.png</File>
     <File>D:/visual studio/projects/Project/Project/Content/stars.png</File>

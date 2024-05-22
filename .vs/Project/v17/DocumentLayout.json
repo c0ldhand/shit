@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\visual studio\\projects\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|d:\\visual studio\\projects\\project\\project\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|solutionrelative:project\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|D:\\visual studio\\projects\\Project\\project\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|solutionrelative:project\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|D:\\visual studio\\projects\\Project\\project\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|solutionrelative:project\\splashscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|D:\\visual studio\\projects\\Project\\project\\starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|solutionrelative:project\\starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|d:\\visual studio\\projects\\project\\project\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|solutionrelative:project\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|D:\\visual studio\\projects\\Project\\project\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|solutionrelative:project\\space.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|D:\\visual studio\\projects\\Project\\project\\starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|solutionrelative:project\\starship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3DEE2A93-DBF0-4A7B-A115-962EFA64D2A1}|Project\\Project.csproj|D:\\visual studio\\projects\\Project\\project\\enemyship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,20 +38,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Space.cs",
               "DocumentMoniker": "D:\\visual studio\\projects\\Project\\Project\\Space.cs",
               "RelativeDocumentMoniker": "Project\\Space.cs",
               "ToolTip": "D:\\visual studio\\projects\\Project\\Project\\Space.cs",
               "RelativeToolTip": "Project\\Space.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "ViewState": "AQIAABsAAAAAAAAAAAA7wCQAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T13:19:06.446Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -63,24 +64,25 @@
               "RelativeToolTip": "Project\\SplashScreen.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T11:38:25.972Z"
+              "WhenOpened": "2024-05-21T11:38:25.972Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Game1.cs",
               "DocumentMoniker": "D:\\visual studio\\projects\\Project\\Project\\Game1.cs",
               "RelativeDocumentMoniker": "Project\\Game1.cs",
               "ToolTip": "D:\\visual studio\\projects\\Project\\Project\\Game1.cs",
               "RelativeToolTip": "Project\\Game1.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwGsAAAABAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwGsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-20T13:29:16.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "StarShip.cs",
               "DocumentMoniker": "D:\\visual studio\\projects\\Project\\Project\\StarShip.cs",
               "RelativeDocumentMoniker": "Project\\StarShip.cs",

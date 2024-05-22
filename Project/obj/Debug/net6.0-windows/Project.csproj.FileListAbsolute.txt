@@ -44,3 +44,4 @@ D:\visual studio\projects\Project\Project\obj\Debug\net6.0-windows\Project.cspro
 D:\visual studio\projects\Project\Project\bin\Debug\net6.0-windows\Content\enemyship1.xnb
 D:\visual studio\projects\Project\Project\bin\Debug\net6.0-windows\Content\enemyship4.xnb
 D:\visual studio\projects\Project\Project\bin\Debug\net6.0-windows\Content\Background2.xnb
+D:\visual studio\projects\Project\Project\obj\Debug\net6.0-windows\Project.sourcelink.json
