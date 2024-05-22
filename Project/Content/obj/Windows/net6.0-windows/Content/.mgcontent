@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/visual studio/projects/Project/Project/Content/enemyship.png</File>
+    <File>D:/visual studio/projects/Project/Project/Content/File.spritefont</File>
+    <File>D:/visual studio/projects/Project/Project/Content/fire.png</File>
+    <File>D:/visual studio/projects/Project/Project/Content/stars.png</File>
+    <File>D:/visual studio/projects/Project/Project/Content/starship.png</File>
+    <File>D:/visual studio/projects/Project/Project/Content/Снимок экрана 2023-11-03 225227.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>enemyship</File>
+    <File>SplashFont</File>
+    <File>fire</File>
+    <File>star</File>
+    <File>starship</File>
+    <File>Background</File>
+  </DestFiles>
+</SourceFileCollection>
